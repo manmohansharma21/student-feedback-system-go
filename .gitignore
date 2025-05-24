@@ -1,0 +1,11 @@
+# Ignore IDE and OS files
+.vscode/
+.DS_Store
+
+# Ignore Go build artifacts
+*.exe
+*.out
+
+
+# Ignore config and env
+.env
